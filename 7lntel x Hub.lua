@@ -2,7 +2,7 @@
 	WARNING: เงยหน้าขึ้น! สคริปต์นี้ไม่ได้รับการยืนยันโดย ScriptBlox ใช้ความเสี่ยงของคุณเอง!
 ]]
 -- การกำหนดค่า
-local GKey = "TopS98149243b045drtMOTnKEu994194420"
+local GKey = "TopS98149243b045drtMOTnKEu99415422652"
 -- เปลี่ยนเป็นอะไรก็ได้
 local TextLabelText1 = "Key 7lntel Hub" -- เปลี่ยนเป็นอะไรก็ได้
 local TextLabelText2 = "สามารถซื้อKeyได้ที่ Discord! .gg/dc3Ug2x84C" -- เปลี่ยนเป็นอะไรก็ได้!
