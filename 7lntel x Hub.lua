@@ -9,7 +9,7 @@ local TextLabelText2 = "สามารถซื้อKeyได้ที่ Disc
 local TextFontAll = "FredokaOne" -- ใส่แบบอักษรใดก็ได้!
 
 -- สิ่งนี้จะโหลดสคริปต์เท่านั้น โดยไม่เรียกใช้งาน
-local executeScript = loadstring(game:HttpGet(('https://raw.githubusercontent.com/7lnte/Hub/refs/heads/main/7lntel%20Hub.lua'),true))
+local executeScript = loadstring(game:HttpGet(('https://raw.githubusercontent.com/7lnte/7lntel/refs/heads/main/7lntel.lua'),true))
 
 -- ทวีน เซอร์วิส
 local TweenService = game:GetService("TweenService")
